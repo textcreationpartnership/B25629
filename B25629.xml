@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A land-mark for all true English loyal subjects, or An English mans guide to divert him in these dark times out of treasonable ways.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25629</idno><idno type="EEBO-CITATION">99882993</idno>
+  <idno type="VID">204069</idno>
+  <idno type="EEBO-PROQUEST">2240885241</idno>
+  
+            <idno type="OCLC"> 12210098</idno>
+            <idno type="STC">Wing L323</idno>
+            <idno type="STC">Interim Tract Supplement Guide 599.i.24[17]</idno>
+            <idno type="STC">ESTC R16729</idno>
+            <idno type="PROQUEST">ocm99882993</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882993e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204069)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F1:1[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A land-mark for all true English loyal subjects, or An English mans guide to divert him in these dark times out of treasonable ways.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Smith at the Elephant and Castle in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204069:1"/>
+            <pb n="1" facs="tcp:204069:1"/>
+            <head>A Land-Mark for all true <hi>English Loyal Subjects,</hi> Or an <hi>English mans Guide</hi> to divert him in these dark times out of Treasonable Ways.</head>
+            <p>IN regard by the Devilish Craft of the Jesuitical Party they have and can at their pleasure, with well-hired and instructed Evidence make what they please Treason, or at least by their Glosses put up<g ref="char:EOLhyphen"/>on Facts, cast such a Mist before Mens Eyes and understand<g ref="char:EOLhyphen"/>ings, that it shall seem to be so, when it's nothing less. Therefore it's more then high time to undeceive all true and loyal Protestants by giving them a true Epitomy of Treason, which they may with cheap<g ref="char:EOLhyphen"/>ness purchase, without trouble carry about them, readily understand, and easily remember; so as it may be useful to them upon all occasions relating to that Subject: and to that end, was this following Epitomy or Abstract made and taken out of Authentique Authors, and of the Laws now in force, which declare what High-Treason is.</p>
+            <p>In that excellent Book, Stiled <hi>The Pleas of the Crown,</hi> Licensed in <hi>November</hi> 1677. by the late Lord-Chief-Justice, Sir <hi>Richard Rainsford,</hi> but written by that Steady, Judicious and Learned Lord-Chief-Justice, Sir <hi>Matthew Hale,</hi> under the Title of High-Treason; He saith it's distinguished into four kinds as,</p>
+            <list>
+               <item>1. That which concerns the King, his Wife, or Children.</item>
+               <item>2. That which concerns his Office in the Administration of Justice.</item>
+               <item>3. That which concerns his Seal. and,</item>
+               <item>4. That which concerns his Coyn.</item>
+            </list>
+            <p>Of which the first is that only concerned to be spoken to. in Reference to the Subject matter hereby intended to be Treated on, and as to that, the most pertinent Matters that Author further mentions, in Relation, or applicable hereunto are,</p>
+            <p>That the Compassing and imagining the Death of the King, Queen, or Prince, and declaring the same by some open Deed, is High-Treason.</p>
+            <p>Declaring by an open Act, a Design to Depose or imprison the King is an Overt Act, to manifest the compassing of his Death; grounded up<g ref="char:EOLhyphen"/>on the Opinion of that famous Author, sometime Lord-Chief-Justice <hi>Coke</hi> in his <hi>3d Institutes,</hi> p. 6. 12. and 38.</p>
+            <p>The Queen must be the Kings Wife, not Queen <hi>Dowager,</hi> (and the Fact not by way of Legal Charge against her) the Prince must be he that is actually so, and not the Collateral Heir, as was adjudged in the Cases of <hi>Roger Mortimer,</hi> 11. <hi>Rich.</hi> 2. and the Duke of <hi>York</hi> 39. <hi>H.</hi> 6.</p>
+            <p>An Overt Act must be alledged in every Indictment for Treason, and proved as in the same Institutes and the same 12 page.</p>
+            <p>Compassing by bare words was not an Overt Act, but set down in writing was heretofore, as appears by the Statutes 1 <hi>Eliz.</hi> cap. 6. and 13. <hi>Eliz.</hi> cap. 1. but how far it is now will more fully appear to the ju<g ref="char:EOLhyphen"/>dicious Reader by the following Abstract of the Statute of the 13 of his now Majesty, <hi>c.</hi> 1. Conspiring the Death of the King and providing Weapons to effect it, or sending Letters to second it; Assembling Peo<g ref="char:EOLhyphen"/>ple to take the King into their power, writing Letters to a Forraign King to invade, are Overt Acts, but to conspire to levy War is no Overt Act, unless levied as in the same Institutes <hi>pag.</hi> 14. Nor is it Treason unless a War <hi>de facto,</hi> as in the following Abstract of the same Stature of the 13th of his now Majesty <hi>cap.</hi> 1. fully appears.</p>
+            <p>And those the said Author of the said Book called <hi>The Pleas of the Crown,</hi> saith in Fol. 16. It must be made appear by manifest proof, and not by Conjectures, and saith, that these were Treasons by 25. <hi>Ed.</hi> 3. and that all other Acts of Parliament that declared any Fact to the Trea<g ref="char:EOLhyphen"/>son, between that and 1. <hi>Ma.</hi> were abbrogated and reduced to the Stan<g ref="char:EOLhyphen"/>dard of the said 25. <hi>Ed.</hi> 3.</p>
+            <p>But since that, as the same Author saith, divers other Acts of Parlia<g ref="char:EOLhyphen"/>ment have been made, by which several other Facts are made High-Treason, as the refusing the Oath of Supremacy upon a second Tender, This is Treason, but without Corruption of Bloud so made by 5 <hi>El. ca.</hi> 1.</p>
+            <p>The extolling the Power of the Bishop of <hi>Rome</hi> a Premunire; But bringing in Bulls, or putting them in Execution, or reconciling them<g ref="char:EOLhyphen"/>selves or others to the See of <hi>Rome</hi> (that is for a Protestant to turn Papist) is made Treason by the said 5 <hi>El. ca.</hi> 1.</p>
+            <pb n="2" facs="tcp:204069:2"/>
+            <p>The bringing in <hi>Agnus Dei</hi>'s is a Premunire; But the absolving the Kings Subjects from Obedience to him, or reconciling them to the O<g ref="char:EOLhyphen"/>bedience of <hi>Rome</hi> is made Treason by 27 <hi>Elis. cap.</hi> 1.</p>
+            <p>The coming of a Popish Priest into <hi>England,</hi> and not submitting him<g ref="char:EOLhyphen"/>self in two days, is also; made Treason, by 27 <hi>Eliz. ca.</hi> 2.</p>
+            <p>The remaining of any <hi>English</hi> Man, in any Popish Seminary, above six Months, after Proclamation for his Return, shall not submit himself to the Bishop, and take the Oath of Supremacy, and shall after, and otherwise return, is also made Treason, by the last mentioned Act.</p>
+            <p>But by the sad Statute, made in the 13 year of his now Majesties Reign, <hi>ca.</hi> 1. It is Enacted, That if any one after the 24 of <hi>June</hi> 1661, and during his Majesties Life, shall within the Realm or without</p>
+            <p>
+               <hi>Compass, Imagine, Invent, Devise, or Intend,</hi> Death, or Destruction, or Bodily harm, tending to it. Maim or Wounding, Imprisonment, or Restraint of his Person.</p>
+            <p>Or, to Deprive, or Depose him from the,</p>
+            <p>
+               <hi>Style, Honour, or Kingly Name,</hi> Of the Imperial Crown of this Realm, <hi>&amp;c.</hi>
+            </p>
+            <p>Or, to levy War against him,</p>
+            <p>
+               <hi>Within, or Without</hi> The Realm.</p>
+            <p>Or, to move or stir any</p>
+            <p>
+               <hi>Forreigner, or Stranger,</hi> With Force to invade this Realm, <hi>&amp;c.</hi>
+            </p>
+            <p>And such Compassings, <hi>&amp;c.</hi> or any of them shall express, utter or declare, by any,</p>
+            <p>
+               <hi>Printing, Writing, Preaching, Malicious, and advised Speaking</hi> Being Legally convicted thereof, upon the Oaths of two Lawful and Credible Wit<g ref="char:EOLhyphen"/>nesses, or otherwise attainted by due course of Law, shall suffer as Traytors.</p>
+            <p>But if any one shall within that time, maliciously and advisedly,</p>
+            <p>
+               <hi>Publish, or Affirm</hi> The King to be <hi>An Heretick, or a Papist, or, that he Endeavors to introduce Popery.</hi>
+            </p>
+            <p>Or, shall Maliciously, and advisedly by,</p>
+            <p>
+               <hi>Writing, Printing, Preaching, or other speaking,</hi> utter or declare <hi>Words, Sentences, or other things,</hi> to incite, or stir up the people,</p>
+            <p>To hatred or dislike of</p>
+            <p>
+               <hi>His Majesties person or the established Government</hi> and being thereof Lawfully Convicted,</p>
+            <p>Shall be uncapable of bearing Office in Church or State, and lyable to such fur<g ref="char:EOLhyphen"/>ther punishment, as by the Common or Statute Laws, may be inflicted in such Cases.</p>
+            <p>None to be presented for any the said offences, (not Treason) unless by his Majesties order, under his sign Manual, or order of the Council Table, directed to the Attorny General.</p>
+            <p>None by Vertue of that Act, to incur any the said Penalties, unless prosecuted within 6 Months after the offence, and Indicted within 3 Months after the prosecu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>None shall be indicted, <hi>&amp;c.</hi> for any the Treasons or Offences abovesaid, unless accused by the Depositions of two lawful and <hi>credible</hi> Witnesses upon Oath, Face to Face, unless the Offender shall willingly enfess the Offence.</p>
+            <p>These last 3 Paragraphs, are abstracted out of several Provisoes, contained in that Act, but as to the second of them Opinions are various, That is to say, Whether the times extends to Offences made Treason as well as others? which cannot sa<g ref="char:EOLhyphen"/>tisfactorily be determined, but must be left to every judicious Reader to give it his own Construction for the Composer hereof intended not hereby any other than In<g ref="char:EOLhyphen"/>formation of Fact, where there is not a printed Authentick Authority to warrant, and therein, if his Endeavors may be truly Serviceable and Acceptable, its a Re<g ref="char:EOLhyphen"/>ward to him.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Smith</hi> at the <hi>Elephant</hi> and <hi>Castle</hi> in <hi>Cornhill.</hi> 1681.</p>
+            <pb facs="tcp:204069:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
